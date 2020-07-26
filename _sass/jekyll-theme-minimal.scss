@@ -1,17 +1,21 @@
 @import "fonts";
 @import "rouge-github";
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  background-color: #fff;
-  padding:50px;
+  background-color: rgb(248, 248, 248);
+  padding: 40px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
-  font-weight:400;
+  // font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 20px;
+  margin:0 0 10px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -22,11 +26,33 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
-h1 {
-  font-size:28px;
+header h1 {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+  padding-top: 10px;
+}
+
+header h1 a {
+  font-weight: bold;
+  text-align: right;
+	color: black;
+	text-decoration: none;
+	
+ 	background: linear-gradient(180deg, #ffffff, #ffffff);
+ 	background-repeat: no-repeat;
+	background-position-y: center;
+  background-size: 0 85%;
+  
+  transition: background-size .4s ease-out;
+	
+	&:hover {
+		background-size: 100% 85%;
+  }
 }
 
 h2 {
+  font-size: 17px;
   color:#393939;
 }
 
@@ -34,25 +60,45 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+.categories {
+  text-align: right;
+  font-size: 17px;
+}
+
 a {
-  color:#267CB9;
-  text-decoration:none;
+  font-weight: normal;
+	color: black;
+  text-decoration: underline;
+  text-decoration-color: rgb(0, 0, 0);
+	
+ 	background: linear-gradient(180deg, #d5fc27, #d5fc27);
+ 	background-repeat: no-repeat;
+	background-position-y: center;
+  background-size: 0 100%;
+  
+  transition: background-size .7s ease-out;
+	
+	&:hover {
+		background-size: 100% 100%;
+  }
 }
 
-a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
-}
-
-a small {
-  font-size:11px;
-  color:#777;
-  margin-top:-0.3em;
-  display:block;
-}
-
-a:hover small {
-  color:#777;
+.categories a {
+  font-weight: lighter;
+  text-align: right;
+	color: black;
+	text-decoration: none;
+	
+ 	background: linear-gradient(180deg, #d5fc27, #d5fc27);
+ 	background-repeat: no-repeat;
+	background-position-y: center;
+  background-size: 0 85%;
+  
+  transition: background-size .4s ease-out;
+	
+	&:hover {
+		background-size: 100% 85%;
+  }
 }
 
 .wrapper {
@@ -105,54 +151,10 @@ img {
 }
 
 header {
-  width:270px;
+  width:200px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-}
-
-ul.downloads {
-  list-style:none;
-  height:40px;
-  padding:0;
-  background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:270px;
-}
-
-.downloads li {
-  width:89px;
-  float:left;
-  border-right:1px solid #e0e0e0;
-  height:40px;
-}
-
-.downloads li:first-child a {
-  border-radius:5px 0 0 5px;
-}
-
-.downloads li:last-child a {
-  border-radius:0 5px 5px 0;
-}
-
-.downloads a {
-  line-height:1;
-  font-size:11px;
-  color:#676767;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
-}
-
-.downloads a:hover, .downloads a:focus {
-  color:#675C5C;
-  font-weight:bold;
-}
-
-.downloads ul a:active {
-  background-color:#f0f0f0;
 }
 
 strong {
@@ -160,19 +162,8 @@ strong {
   font-weight:700;
 }
 
-.downloads li + li + li {
-  border-right:none;
-  width:89px;
-}
-
-.downloads a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
-}
-
 section {
-  width:500px;
+  width: 620px;
   float:right;
   padding-bottom:50px;
 }
@@ -252,14 +243,6 @@ footer {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
-  }
-
-  .downloads {
-    width:99%;
-  }
-
-  .downloads li, .downloads li + li + li {
-    width:33%;
   }
 }
 
