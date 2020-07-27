@@ -65,7 +65,7 @@
             this.x += Math.cos(a);
             this.y += Math.sin(a);
 
-            ctx.fillStyle = "#F0F0F0";
+            ctx.fillStyle = "#FFFFFF";
             ctx.fillRect(this.x, this.y, 0.75, 0.75);
             if (
                 this.x < 0 ||
