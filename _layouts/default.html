@@ -7,10 +7,16 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 
   </head>
   <body>
-    <canvas id="canvas"></canvas>
+    <div class="animation-wrapper" style="z-index: -1">
+      <div class="particle particle-1"></div>
+      <div class="particle particle-2"></div>
+      <div class="particle particle-3"></div>
+    </div>
+
     <div class="wrapper">
       <header>
         <h1><a href="{{ site.baseurl }}{% link index.md %}">Senthur Raj</a></h1>
@@ -28,7 +34,7 @@
                 <a href="{{ site.baseurl }}{% link opensourceprojects.md %}">Open-source</a>
             </div>
             <div class="gallery">
-              <a href="{{ site.baseurl }}{% link opensourceprojects.md %}">Gallery</a>
+              <a href="#">Gallery</a>
           </div>
         </div>  
       </header>
@@ -41,19 +47,19 @@
         <div id="ctwrapper">
           <div class="bt_wrap">
             <div class="box">
-              <i class="icon fa fa-envelope" aria-hidden="true"></i>
+              <a href="mailto:imsenthur@gmail.com" target="_blank"><i class="icon fa fa-envelope" aria-hidden="true"></i></a>
               <a href="mailto:imsenthur@gmail.com" target="_blank"><i class="icon2 fa fa-envelope" aria-hidden="true"></i></a>
             </div>
           </div>
           <div class="bt_wrap">
             <div class="box">
-              <i class="icon fa fa-linkedin"></i>
+              <a href="https://www.linkedin.com/in/imsenthur" target="_blank"><i class="icon fa fa-linkedin" aria-hidden="true"></i></a>
               <a href="https://www.linkedin.com/in/imsenthur" target="_blank"><i class="icon2 fa fa-linkedin" aria-hidden="true"></i></a>
             </div>
           </div>
           <div class="bt_wrap">
             <div class="box">
-              <i class="icon fa fa-github"></i>
+              <a href="https://www.github.com/imsenthur" target="_blank"><i class="icon fa fa-github" aria-hidden="true"></i></a>
               <a href="https://www.github.com/imsenthur" target="_blank"><i class="icon2 fa fa-github" aria-hidden="true"></i></a>
             </div>
           </div>
@@ -66,8 +72,6 @@
         </div>
       </footer>
     </div>
-    <script src="{{ "/assets/js/noise.js" | relative_url }}"></script>
-
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
