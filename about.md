@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-![alt](assets/img/senthur.png){:width="215px"}
+![alt](assets/img/senthur.png){:width="200px"}
 &nbsp;
 ## Education:
 #### [National Institute of Technology, Tiruchirappalli, 2016-2020](https://www.nitt.edu/){:target="blank"}
-* Btech. Production Engineering (CGPA: 8.44)
+* Btech. Production Engineering
 * Minor degree in Computer Science
+* CGPA: 8.44
 
 #### [Maharishi International Residential School, 2013-2015](http://www.maharishiirschennai.com/home/){:target="blank"}
 * CBSE 12th Grade: Computer Science
@@ -14,7 +15,7 @@ layout: default
 
 ## Experience:
 #### [Research Assistant, DRDO/DEBEL-Exoskeleton project, May-August, 2020](#)
-* Working on dynamics and simulation of a powered exoskeleton.
+* Working on dynamics and simulation of a Powered Exoskeleton.
 * Analysed various phases of humain-gait cycle.
 
 #### [Research Intern, Robotics lab, Engineering Design, IIT-Madras, 2018-2019](https://ed.iitm.ac.in/~robotics_lab/index.html){:target="blank"}
@@ -23,6 +24,6 @@ layout: default
 * Simulated various impedance control strategies on a 5-bar manipulator.
 
 #### [Head of Spider-Tronix, Research and development club of NITT, 2019](https://spider.nitt.edu/){:target="blank"}
-* Led a team of 41 self-motivated undergraduate students.
+* Led a team of 41 self-motivated Undergraduate students.
 * Worked on various research projects in the field of Robotics and Deep learning.
 
