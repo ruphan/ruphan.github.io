@@ -4,12 +4,12 @@
 @import "jekyll-theme-minimal";
 
 /* Config */
-$color-particle: rgb(194, 191, 191);
+$color-particle: rgb(146, 146, 146);
 $spacing: 2560px;
-$time-1: 30s;
-$time-2: 60s;
-$time-3: 90s;
-$time-4: 300s;
+$time-1: 3s;
+$time-2: 6s;
+$time-3: 9s;
+$time-4: 30s;
 
 /* Pauls awesome mixin */
 @function particles($max) {
