@@ -9,12 +9,8 @@ layout: default
 * Minor degree in Computer Science
 * CGPA: 8.44
 
-#### [Maharishi International Residential School, 2013-2015](http://www.maharishiirschennai.com/home/){:target="blank"}
-* CBSE 12th Grade: Computer Science
-* Percentage: 92.6
-
 ## Experience:
-#### [Research Assistant, DRDO/DEBEL-Exoskeleton project, May-August, 2020](#)
+#### [Research Intern, DRDO/DEBEL-Exoskeleton project, May-August, 2020](#)
 * Working on dynamics and simulation of a Powered Exoskeleton.
 * Analysed various phases of humain-gait cycle.
 
