@@ -10,7 +10,7 @@ layout: default
 * CGPA: 8.44
 
 ## Experience:
-#### [Research Intern, DRDO/DEBEL-Exoskeleton project, May-August, 2020](#)
+#### [Research Intern, DRDO/DEBEL-Exoskeleton project, 2020](#)
 * Working on dynamics and simulation of a Powered Exoskeleton.
 * Analysed various phases of humain-gait cycle.
 
