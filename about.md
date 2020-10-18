@@ -1,17 +1,21 @@
 ---
 layout: default
 ---
-![alt](assets/img/senthur.png){:width="200px"}
+![alt](assets/img/senthur.png){:width="180px"}
 &nbsp;
 ## Education:
 #### [National Institute of Technology, Tiruchirappalli, 2016-2020](https://www.nitt.edu/){:target="blank"}
 * Btech. Production Engineering
 * Minor degree in Computer Science
-* CGPA: 8.44
+* CGPA: ``8.44``
+
+#### [Maharishi International Residential School, 2013-2015](http://www.maharishiirschennai.com/home/){:target="blank"}
+* CBSE 12th Grade: Computer Science
+* Percentage: ``92.6``
 
 ## Experience:
 #### [Research Intern, DRDO/DEBEL-Exoskeleton project, 2020](#)
-* Working on dynamics and simulation of a Powered Exoskeleton.
+* Worked on dynamics and simulation of a Powered Exoskeleton.
 * Analysed various phases of humain-gait cycle.
 
 #### [Research Intern, Robotics lab, Engineering Design, IIT-Madras, 2018-2019](https://ed.iitm.ac.in/~robotics_lab/index.html){:target="blank"}
