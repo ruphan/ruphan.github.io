@@ -2,8 +2,7 @@
 layout: default
 ---
 
-![a](assets/img/gallery/a25.jpg) | ![a](assets/img/gallery/a33.jpg)
-![a](assets/img/gallery/a1.jpg) | ![a](assets/img/gallery/a7.jpg) 
+![a](assets/img/gallery/a33.jpg) | ![a](assets/img/gallery/a1.jpg) 
 ![a](assets/img/gallery/a28.jpg) | ![a](assets/img/gallery/socket.jpg)
 ![a](assets/img/gallery/a13.jpg) | ![a](assets/img/gallery/a16.jpg)
 ![a](assets/img/gallery/a29.jpg) | ![a](assets/img/gallery/a2.jpg)

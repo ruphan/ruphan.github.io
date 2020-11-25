@@ -14,16 +14,19 @@ layout: default
 * Percentage: ``92.6``
 
 ## Experience:
-#### [Research Intern, DRDO/DEBEL-Exoskeleton project, 2020](#)
-* Worked on dynamics and simulation of a Powered Exoskeleton.
-* Analysed various phases of humain-gait cycle.
+#### [Founder, Homebrew Bionics](https://homebrew-bionics.github.io/){:target="blank"}
+* A global community of engineers and makers striving to make a positive difference in the world with open-source and affordable prosthetic devices.
 
-#### [Research Intern, Robotics lab, Engineering Design, IIT-Madras, 2018-2019](https://ed.iitm.ac.in/~robotics_lab/index.html){:target="blank"}
+#### [Research Intern, DRDO/DEBEL Exoskeleton project, 2020](#)
+* Worked on the dynamics and simulation of a Powered Exoskeleton.
+* Analysed various phases of the humain-gait cycle.
+
+#### [Research Intern, Robotics lab, IIT-Madras, 2018-2019](https://ed.iitm.ac.in/~robotics_lab/index.html){:target="blank"}
 * Designed and developed a novel impedance controller for Bilateral teleoperation.
-* Developed a methodology for quantitatively determining the desired dynamic parameters of an impedance controlled robot.
-* Simulated various impedance control strategies on a 5-bar manipulator.
+* Proposed a methodology for quantitatively estimating the desired dynamic parameters of an impedance controlled robot.
+* Simulated various impedance control strategies on a 5-bar parallel manipulator.
 
-#### [Head of Spider-Tronix, Research and development club of NITT, 2019](https://spider.nitt.edu/){:target="blank"}
+#### [Head of Spider Tronix, Research and Development club of NITT, 2017-2019](https://spider.nitt.edu/){:target="blank"}
 * Led a team of 41 self-motivated Undergraduate students.
 * Worked on various research projects in the field of Robotics and Deep learning.
 
