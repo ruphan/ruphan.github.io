@@ -7,6 +7,10 @@ layout: default
 [![Site](https://img.shields.io/badge/-Site-black?style=for-the-badge)](https://homebrew-bionics.github.io/){:target="_blank"}
 [![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/homebrew-bionics){:target="_blank"}
 
+![oslsim](assets/img/oslsim_banner.gif) **OSLsim**: A ROS package that provides the necessary interfaces to simulate the Open-source leg (OSL) proposed by the Neurobionics Lab at the University of Michigan to unify the research field of prosthetic leg controls.\\
+&nbsp;\\
+[![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/homebrew-bionics/oslsim){:target="_blank"}
+
 ![Anton](assets/img/GEL.gif) **Anton: an open-source generative design framework built on Blender, the open-source 3D creation suite**. At its current stage of development, anton uses a narrow-band topology optimization methodology as a design generator and uses implicit surfaces for mesh generation.\\
 &nbsp;\\
 [![Docs](https://img.shields.io/badge/-Docs-black?style=for-the-badge)](https://anton.readthedocs.io/en/latest/){:target="_blank"} [![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/blender-for-science/anton){:target="_blank"}
