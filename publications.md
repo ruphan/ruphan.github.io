@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-[Quantitative Estimation of Dynamic Modulation in Impedance Controlled Remote Environment Sensing\*](#),
-Srikar A, Vijay Kumar P, Senthur Raj, and Asokan T. **IEEE Sensors Journal, 2020**. \\
-*Impedance control is often preferred in teleoperated robots due to its capability to modulate the dynamic relationship between  the position and force of the robot. A methodology for quantitatively determining the desired dynamic parameters of the robot, in order to have stable interaction with the environment, is proposed in this paper.
+[Quantitative Estimation of Dynamic Modulation in Impedance Controlled Remote Environment Sensing](#),
+Srikar A, Vijay Kumar P, Senthur Raj, and Asokan T.\\
+**IEEE Sensors Journal, 2020**. \\
+Impedance control is often preferred in teleoperated robots due to its capability to modulate the dynamic relationship between  the position and force of the robot. A methodology for quantitatively determining the desired dynamic parameters of the robot, in order to have stable interaction with the environment, is proposed in this paper.
 
 [Ibex: A reconfigurable ground vehicle with adaptive terrain navigation capability](https://ieeexplore.ieee.org/document/9196571){:target="_blank"}, \\
 Senthur Raj, Manu Aatitya R P, Jack Samuel S, J Veejay Karthik and Dr. D. Ezhilarasi. \\
