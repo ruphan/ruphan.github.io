@@ -2,8 +2,8 @@
 layout: default
 body_class: no-scroll
 ---
-## What do I do?
-I build computer vision systems for robotic perception, leveraging deep learning to enhance autonomy and functionality. My expertise includes designing robust algorithms and distilling foundational models for real-time performance on edge devices. Outside of work, I enjoy hiking, skiing and trail running, finding inspiration in nature and adventure to fuel my creativity and problem-solving skills.
+## About Me
+I build computer vision systems for robotic perception, leveraging deep learning to enhance autonomy and functionality. I am currently focusing on designing robust algorithms and distilling and optimizing foundational models for real-time performance on edge devices. Outside of work, I enjoy hiking, skiing, and trail running, finding inspiration in nature and adventure to fuel my creativity and problem-solving skills.
 
 ## Education:
 #### [Columbia University](https://www.columbia.edu/){:target="blank"} (Feb 2023)
@@ -27,4 +27,4 @@ I build computer vision systems for robotic perception, leveraging deep learning
 * Collaborated on creating ScoopNet to harness synthetic data and achieve sim2real transfer for soft robot segmentation and pose estimation. [(Learn more ...)](https://ieeexplore.ieee.org/document/9515617){:target="blank"}
 
 #### [Head of Workshops Team, EEE Association of NITT](#){:target="blank"}
-* Led a team of 10 students to organize workshops during the annual department symposium attended by over 400 students, covering themes such as Game Dev and ML.
+* Led a team of 10 students to organize workshops during the annual department symposium attended by over 400 students, covering themes such as ML and Game Dev.
