@@ -1,32 +1,30 @@
 ---
 layout: default
+body_class: no-scroll
 ---
-![alt](assets/img/senthur.png){:width="180px"}
-&nbsp;
-## Education:
-#### [National Institute of Technology, Tiruchirappalli, 2016-2020](https://www.nitt.edu/){:target="blank"}
-* Btech. Production Engineering
-* Minor degree in Computer Science
-* CGPA: ``8.44``
+## What do I do?
+I build computer vision systems for robotic perception, leveraging deep learning to enhance autonomy and functionality. My expertise includes designing robust algorithms and distilling foundational models for real-time performance on edge devices. Outside of work, I enjoy hiking, skiing and trail running, finding inspiration in nature and adventure to fuel my creativity and problem-solving skills.
 
-#### [Maharishi International Residential School, 2013-2015](http://www.maharishiirschennai.com/home/){:target="blank"}
-* CBSE 12th Grade: Computer Science
-* Percentage: ``92.6``
+## Education:
+#### [Columbia University](https://www.columbia.edu/){:target="blank"} (Feb 2023)
+* Master of Science in Computer Science
+* Specialization in Computer Vision and Robotics
+* GPA: ``3.90/4.00``
+
+#### [National Institute of Technology, Tiruchirappalli](https://www.nitt.edu/){:target="blank"} (Sep 2021)
+* Bachelor of Technology in Electrical and Electronics Engineering 
+* Graduated with Honors
+* GPA: ``9.04/10.00``
 
 ## Experience:
-#### [Founder, Homebrew Bionics](https://homebrew-bionics.github.io/){:target="blank"}
-* A global community of engineers and makers striving to make a positive difference in the world with open-source and affordable prosthetic devices.
+#### [Vision and Robotics, Ottonomy Inc.](https://ottonomy.io/){:target="blank"} (May 2022 - Present)
+* Developed a context-aware GAN architecture for vision-based localization of autonomous robots in large-scale environments. [(Learn more ...)](#)
+* Designed MobileDerainGAN to tackle challenges in robot perception during adverse weather conditions in a semi-supervised setting.  [(Learn more ...)](https://ieeexplore.ieee.org/document/10208350){:target="blank"}
+* Deployed and led pilot projects of autonomous robots in diverse environments, spanning city sidewalks, casino and bowling alleys, and crowded mall settings.
 
-#### [Research Intern, DRDO/DEBEL Exoskeleton project, 2020](#)
-* Worked on the dynamics and simulation of a Powered Exoskeleton.
-* Analysed various phases of the humain-gait cycle.
+#### [Research Intern, National University of Singapore](http://www.labren.org/mm/){:target="blank"} (Mar 2020 – Nov 2020)
+* Built a multiphysics simulation platform for magnetically actuated robots to generate large scale synthetic datasets and enhance soft-robot perception. [(Learn more ...)](https://ieeexplore.ieee.org/document/9385947){:target="blank"}
+* Collaborated on creating ScoopNet to harness synthetic data and achieve sim2real transfer for soft robot segmentation and pose estimation. [(Learn more ...)](https://ieeexplore.ieee.org/document/9515617){:target="blank"}
 
-#### [Research Intern, Robotics lab, IIT-Madras, 2018-2019](https://ed.iitm.ac.in/~robotics_lab/index.html){:target="blank"}
-* Designed and developed a novel impedance controller for Bilateral teleoperation.
-* Proposed a methodology for quantitatively estimating the desired dynamic parameters of an impedance controlled robot.
-* Simulated various impedance control strategies on a 5-bar parallel manipulator.
-
-#### [Head of Spider Tronix, Research and Development club of NITT, 2017-2019](https://spider.nitt.edu/){:target="blank"}
-* Led a team of 41 self-motivated Undergraduate students.
-* Worked on various research projects in the field of Robotics and Deep learning.
-
+#### [Head of Workshops Team, EEE Association of NITT](#){:target="blank"}
+* Led a team of 10 students to organize workshops during the annual department symposium attended by over 400 students, covering themes such as Game Dev and ML.

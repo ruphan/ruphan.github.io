@@ -2,41 +2,34 @@
 layout: default
 ---
 
-![Homebrew Bionics](assets/img/hb.gif) **Homebrew Bionics**: The project explores various design approaches to lower-limb prosthesis and proposes a low-cost, rapidly fabricable prosthetic solution with economic, indigenous materials and a culture-specific design for developing countries.\\
-&nbsp;\\
-[![Site](https://img.shields.io/badge/-Site-black?style=for-the-badge)](https://homebrew-bionics.github.io/){:target="_blank"}
-[![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/homebrew-bionics){:target="_blank"}
+![Visual Localization](assets/img/visual_loc.gif) **[Visual Localization](#){:target="_blank"}**: This project explores the use of camera systems to interpret scenes through context clues, enabling the creation of a lightweight internal map and facilitating localization of the camera system. In an autonomous delivery robot setting, context clues are learned from diverse data gathered during repeated traversals of the area of interest.
+<br><br>
 
-![oslsim](assets/img/oslsim_banner.gif) **OSLsim**: A ROS package that provides the necessary interfaces to simulate the Open-source leg (OSL) proposed by the Neurobionics Lab at the University of Michigan to unify the research field of prosthetic leg controls.\\
-&nbsp;\\
-[![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/homebrew-bionics/oslsim){:target="_blank"}
+---
 
-![Anton](assets/img/GEL.gif) **Anton: an open-source generative design framework built on Blender, the open-source 3D creation suite**. At its current stage of development, anton uses a narrow-band topology optimization methodology as a design generator and uses implicit surfaces for mesh generation.\\
-&nbsp;\\
-[![Docs](https://img.shields.io/badge/-Docs-black?style=for-the-badge)](https://anton.readthedocs.io/en/latest/){:target="_blank"} [![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/blender-for-science/anton){:target="_blank"}
+![Adverse Weather Perception](assets/img/adverse_weather.gif) **[Adverse Weather Perception](#){:target="_blank"}**: Traditional computer vision algorithms often struggle in adverse weather conditions due to insufficient training samples for such environments. To address this without requiring retraining, a preprocessing step is essential to mitigate the effects of adverse weather. From a robotic perception perspective, this step must operate in real-time and enhance the performance of subsequent algorithms, such as object detection and segmentation.
+<br><br>
 
-![Ibex](assets/img/ibex.gif) **Ibex: a unique unmanned ground vehicle with a dynamic wheelbase and an adaptive thrust based friction optimization scheme** that aids in the traversal of steep slopes and slippery surfaces. The vehicle is capable of adapting itself to the surface topography using an impedance-based stabilization module to minimize the mechanical oscillatory transients induced during its motion.\\
-&nbsp;\\
-[![Read](https://img.shields.io/badge/-Read-black?style=for-the-badge)](https://ieeexplore.ieee.org/document/9196571){:target="_blank"} [![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/spider-tronix/shadow-bot){:target="_blank"}
+---
 
-![AIR](assets/img/air.gif) **Dynamic Modulation of Human Interactive Robots using Impedance Control**: Human-robot interaction is prominently seen in industries, haptics etc. where the underlying objective is to make the robot assistive in nature to the human. A methodology is proposed herein to improve the assistive nature of the robot by reducing the inertia felt by the human. An impedance controller is presented to modulate the dynamics of the manipulator and assign an apparent inertia to the robot.\\
-&nbsp;\\
-[![Read](https://img.shields.io/badge/-Read-black?style=for-the-badge)](https://dl.acm.org/doi/abs/10.1145/3352593.3352597){:target="_blank"} [![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/imsenthur/impedance-control-AIR19){:target="_blank"}
+![Human Segmentation and Face Pose Estimation](assets/img/human_seg_face_track.gif) **[Human Segmentation and Face Pose Estimation](#){:target="_blank"}**: Segmenting humans and estimating face pose has significant implications for robotics. Human segmentation aids in estimating tracking vectors, allowing robots to navigate more effectively among people. Face pose estimation helps detect gaze direction, enhancing interaction and enabling the quantification of ad views displayed on the robot.
+<br><br>
 
-![spec-shield](assets/img/spec-shield.gif) **Spec-Shield: a curvature adjustable face shield** that tackles undesirable reflections and can be mounted on spectacles.\\
-&nbsp;\\
-[![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/imsenthur/spec-shield){:target="_blank"}
+---
 
-![Arboc](assets/img/arboc.gif) **Arboc: The project focuses on modelling the dynamics of underwater robots** and to simulate, validate and develop a biomimetic snake-robot which is robust enough to carry out underwater exploratory tasks.\\
-&nbsp;\\
-[![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/spider-tronix/arboc){:target="_blank"}
+![Occupancy Estimation from Mocular Depth](assets/img/occupancy.gif) **[Occupancy Estimation from Mocular Depth](#){:target="_blank"}**: State-of-the-art monocular depth estimation models excel at producing relative depth maps. Robots typically use cameras with overlapping views and and have reference points at a fixed distance such as parts of their own structure. Integrating this data with camera intrinsics allowed to transform a 360-degree camera into a LiDAR system with a denser point cloud.
+<br><br>
 
-![Armadillo](assets/img/armadillo.gif) **Armadillo: a wheel capable of varying its radius over a range of values using a novel transformation mechanism.** The transformation occurs without any additional actuators which enhances its maneuverability.\\
-&nbsp;\\
-[![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/spider-tronix/armadillo){:target="_blank"}
+---
 
-![uw_dynamics](assets/img/uw_dynamics.gif) **uw_dynamics: A gazebo package containing plugins capable of simulating underwater biomimetic robots** in fluids of various densities and even aerial biomimetic robots.\\
-&nbsp;\\
-[![Source](https://img.shields.io/badge/-Source-black?style=for-the-badge)](https://github.com/imsenthur/uw_dynamics){:target="_blank"}
+![Sim2Real](assets/img/sim2real.gif) **[Sim2Real for Robotic Task Learning](#){:target="_blank"}**: This project introduces T-Net, a GAN architecture designed to optimize task learning on real images using synthetic images and their corresponding task-specific labels, along with unlabeled real images. Drawing inspiration from CycleGAN, T-Net employs a consistency loss that ensures the generated images are realistic while maintaining alignment with the labels of the synthetic data.
+<br><br>
 
-| ![igcode](assets/img/suzanne.gif) **Import-G-code**: Imports G-code files into Blender 2.80+ as a collection of layers which can then be animated or exported.| ![blendmsh](assets/img/blendmsh.gif) **Blendmsh**: A bridge between Blender 2.80+ and Gmsh, a fast and light 3D finite element mesh generator.|
+---
+
+![Portable Braille](assets/img/portable_braille.gif) **[Portable Braille](#){:target="_blank"}**: This project explores the use of low-cost microactuators like solenoids from obsolete dot matrix printer heads, to create a refreshable Braille display capable of simulating 10 characters at a time. Incorporating a camera to convert text from the surrounding environment and feeding this information to the actuators in real time significantly enhances Braille accessibility for low-income users.
+<br><br>
+
+---
+
+![Mocking Bot](assets/img/mocking_bot.gif) **[Mocking Bot](#){:target="_blank"}**: Have you ever heard a piece of music and wanted to play it? This project, which secured first place at EYantra 2018 hosted by IIT Bombay, focuses on understanding and replicating musical instruments. This bot is designed to listen to music, extracting key elements such as note onsets, note types, and the specific instrument being played and mimic it using robotic arms.

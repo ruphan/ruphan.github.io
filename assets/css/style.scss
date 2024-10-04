@@ -33,7 +33,6 @@ $time-4: 30s;
   height: 100%;
 }
 
-
 .particle,
 .particle:after {
   background: transparent;
@@ -88,3 +87,30 @@ $time-4: 30s;
   from { transform: translateY(0px); }
   to   { transform: translateY($spacing * -1); }
 }
+
+body.no-scroll {
+  overflow: hidden;
+  width: 100%;
+}
+
+footer {
+  display: flex;
+  justify-content: center; /* Center icons horizontally */
+  gap: 20px; /* Adjust the gap between icons */
+  padding: 10px;
+}
+
+footer a {
+  color: #000; /* Adjust icon color if needed */
+  text-decoration: none; /* Remove underline from links */
+}
+
+footer i {
+  font-size: 24px; /* Adjust icon size if needed */
+  transition: color 0.3s;
+}
+
+footer a:hover i {
+  color: #0077b5; /* Change color on hover if desired */
+}
+
